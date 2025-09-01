@@ -1,7 +1,7 @@
 # code-lab
 8. Future of digital assets.
    
-main.py
+main.p
 `python
 #!/usr/bin/env python3
 """crypto-lab: small utilities entrypoint"""
